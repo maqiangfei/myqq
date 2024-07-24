@@ -8,7 +8,5 @@ public class QQClient {
     public static void main(String[] args) {
         QQController qqController = new QQController();
         qqController.startQQ();
-        //master
-        //hot-fix
     }
 }
